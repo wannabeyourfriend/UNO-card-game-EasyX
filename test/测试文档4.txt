@@ -1,0 +1,345 @@
+Welcome to UNO!------------------------------------------------------------
+Player 1 remaining card count: 7
+Player 2 remaining card count: 7
+Player 3 remaining card count: 7
+Player 4 remaining card count: 7
+
+Your remaining card count: 7
+Your cards:
+      0 - | NUMBER      | yellow | 4 |   valid
+      1 - | NUMBER      | green  | 6 |   valid
+      2 - | NUMBER      | red    | 9 |   valid
+      3 - | NUMBER      | yellow | 6 |   valid
+      4 - | NUMBER      | blue   | 8 |   valid
+      5 - | NUMBER      | red    | 1 |   valid
+      6 - | NUMBER      | red    | 6 |   valid
+
+Please select the card you want to play.
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 7
+Player 3 remaining card count: 6
+Player 4 remaining card count: 7
+
+Your remaining card count: 6
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | green  | 6 |   valid
+      2 - | NUMBER      | yellow | 6 |   valid
+      3 - | NUMBER      | blue   | 8 | invalid
+      4 - | NUMBER      | red    | 1 |   valid
+      5 - | NUMBER      | red    | 6 |   valid
+
+Last:     | NUMBER      | red    | 6 |
+Please select the card you want to play.
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 10
+Player 3 remaining card count: 9
+Player 4 remaining card count: 6
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | green  | 6 |   valid
+      2 - | NUMBER      | blue   | 8 | invalid
+      3 - | NUMBER      | red    | 1 | invalid
+      4 - | NUMBER      | red    | 6 | invalid
+
+Last:     | SKIP        | green  |   |
+Please select the card you want to play.
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 9
+Player 3 remaining card count: 8
+Player 4 remaining card count: 5
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | blue   | 8 |   valid
+      2 - | NUMBER      | red    | 1 | invalid
+      3 - | NUMBER      | red    | 6 | invalid
+
+Last:     | NUMBER      | green  | 8 |
+Please select the card you want to play.
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 8
+Player 3 remaining card count: 9
+Player 4 remaining card count: 3
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 | invalid
+      2 - | NUMBER      | red    | 6 | invalid
+
+Last:     | NUMBER      | blue   | 7 |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 7
+Player 3 remaining card count: 9
+Player 4 remaining card count: 2
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 | invalid
+      2 - | NUMBER      | red    | 6 | invalid
+      3 - | NUMBER      | red    | 7 | invalid
+
+Last:     | NUMBER      | blue   | 9 |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 remaining card count: 6
+Player 3 remaining card count: 8
+Player 4 remaining card count: 1
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 |   valid
+      2 - | NUMBER      | red    | 6 |   valid
+      3 - | NUMBER      | red    | 7 |   valid
+      4 - | NUMBER      | red    | 8 |   valid
+
+Last:     | NUMBER      | red    | 3 |
+Please select the card you want to play.
+entered: 3
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 5
+Player 3 remaining card count: 7
+Player 4 remaining card count: 1
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 |   valid
+      2 - | NUMBER      | red    | 6 |   valid
+      3 - | NUMBER      | red    | 8 |   valid
+
+Last:     | SKIP        | red    |   |
+Please select the card you want to play.
+entered: 3
+------------------------------------------------------------
+Player 1 remaining card count: 2
+Player 2 remaining card count: 6
+Player 3 remaining card count: 8
+Player 4 remaining card count: 2
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 |   valid
+      2 - | NUMBER      | red    | 6 |   valid
+
+Last:     | NUMBER      | red    | 2 |
+Please select the card you want to play.
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 5
+Player 3 remaining card count: 7
+Player 4 remaining card count: 3
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | yellow | 4 | invalid
+      1 - | NUMBER      | red    | 1 | invalid
+
+Last:     | NUMBER      | blue   | 3 |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 remaining card count: 4
+Player 3 remaining card count: 6
+Player 4 remaining card count: 2
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | yellow | 4 |   valid
+      1 - | NUMBER      | red    | 1 | invalid
+      2 - | NUMBER      | blue   | 2 | invalid
+      3 - | NUMBER      | red    | 5 | invalid
+      4 - | DRAW 2      | green  |   | invalid
+
+Last:     | DRAW 2      | yellow |   |
+Please select the card you want to play.
+entered: 0
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 4
+Player 3 remaining card count: 5
+Player 4 remaining card count: 1
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 | invalid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | DRAW 2      | green  |   | invalid
+
+Last:     | NUMBER      | yellow | 7 |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 2
+Player 2 remaining card count: 2
+Player 3 remaining card count: 5
+Player 4 remaining card count: 2
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 | invalid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | DRAW 2      | green  |   | invalid
+      4 - | NUMBER      | green  | 6 | invalid
+
+Last:     | REVERSE     | yellow |   |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 3
+Player 3 remaining card count: 6
+Player 4 remaining card count: 3
+
+Your remaining card count: 6
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 | invalid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | DRAW 2      | green  |   | invalid
+      4 - | NUMBER      | green  | 6 | invalid
+      5 - | SKIP        | green  |   | invalid
+
+Last:     | REVERSE     | yellow |   |
+Please select the card you want to play.
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 remaining card count: 2
+Player 3 remaining card count: 7
+Player 4 remaining card count: 2
+
+Your remaining card count: 7
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 | invalid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | DRAW 2      | green  |   |   valid
+      4 - | NUMBER      | green  | 6 |   valid
+      5 - | SKIP        | green  |   |   valid
+      6 - | NUMBER      | green  | 1 |   valid
+
+Last:     | NUMBER      | green  | 9 |
+Please select the card you want to play.
+entered: 3
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 1
+Player 3 remaining card count: 6
+Player 4 remaining card count: 3
+
+Your remaining card count: 6
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 | invalid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | NUMBER      | green  | 6 |   valid
+      4 - | SKIP        | green  |   |   valid
+      5 - | NUMBER      | green  | 1 |   valid
+
+Last:     | NUMBER      | green  | 4 |
+Please select the card you want to play.
+entered: 4
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 has won!
+Player 3 remaining card count: 5
+Player 4 remaining card count: 2
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | blue   | 2 |   valid
+      2 - | NUMBER      | red    | 5 | invalid
+      3 - | NUMBER      | green  | 6 |   valid
+      4 - | NUMBER      | green  | 1 |   valid
+
+Last:     | NUMBER      | green  | 2 |
+Please select the card you want to play.
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 has won!
+Player 3 remaining card count: 4
+Player 4 remaining card count: 1
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | red    | 5 | invalid
+      2 - | NUMBER      | green  | 6 |   valid
+      3 - | NUMBER      | green  | 1 | invalid
+
+Last:     | NUMBER      | blue   | 6 |
+Please select the card you want to play.
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 has won!
+Player 3 remaining card count: 4
+Player 4 remaining card count: 1
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | red    | 5 | invalid
+      2 - | NUMBER      | green  | 1 |   valid
+
+Last:     | REVERSE     | green  |   |
+Please select the card you want to play.
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 has won!
+Player 3 remaining card count: 3
+Player 4 remaining card count: 2
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | red    | 1 | invalid
+      1 - | NUMBER      | red    | 5 |   valid
+
+Last:     | NUMBER      | green  | 5 |
+Please select the card you want to play.
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 has won!
+Player 3 remaining card count: 4
+Player 4 remaining card count: 1
+
+Your remaining card count: 1
+Your cards:
+      0 - | NUMBER      | red    | 1 |   valid
+
+Last:     | NUMBER      | red    | 3 |
+Please select the card you want to play.
+entered: 0
+You won!
+D:\VSCode\code\uno_1\x64\Debug\uno_1.exe (进程 41668)已退出，代码为 -1073740940。
+按任意键关闭此窗口. . .

@@ -1,0 +1,580 @@
+------------------------------------------------------------
+Player 1 remaining card count: 7
+Player 2 remaining card count: 7
+Player 3 remaining card count: 7
+
+Your remaining card count: 7
+Your cards:
+      0 - | NUMBER      | red    | 5 |   valid
+      1 - | NUMBER      | yellow | 5 |   valid
+      2 - | NUMBER      | red    | 2 |   valid
+      3 - | SKIP        | red    |   |   valid
+      4 - | REVERSE     | yellow |   |   valid
+      5 - | NUMBER      | yellow | 4 |   valid
+      6 - | NUMBER      | yellow | 7 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Please select the card you want to play.
+2233
+entered: 4
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 6
+Player 3 remaining card count: 6
+
+Your remaining card count: 6
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 5 |   valid
+      2 - | NUMBER      | red    | 2 | invalid
+      3 - | SKIP        | red    |   | invalid
+      4 - | NUMBER      | yellow | 4 |   valid
+      5 - | NUMBER      | yellow | 7 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | yellow | 0 |
+61
+Please select the card you want to play.
+2233
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 7
+Player 3 remaining card count: 5
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | red    | 5 |   valid
+      1 - | NUMBER      | red    | 2 |   valid
+      2 - | SKIP        | red    |   |   valid
+      3 - | NUMBER      | yellow | 4 | invalid
+      4 - | NUMBER      | yellow | 7 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | red    | 6 |
+13
+Please select the card you want to play.
+2233
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 remaining card count: 6
+Player 3 remaining card count: 5
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | red    | 5 |   valid
+      1 - | NUMBER      | red    | 2 |   valid
+      2 - | NUMBER      | yellow | 4 | invalid
+      3 - | NUMBER      | yellow | 7 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | red    | 9 |
+18
+Please select the card you want to play.
+2233
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 5
+Player 3 remaining card count: 4
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 4 | invalid
+      2 - | NUMBER      | yellow | 7 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | blue   | 0 |
+40
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 4
+Player 3 remaining card count: 3
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 4 | invalid
+      2 - | NUMBER      | yellow | 7 | invalid
+      3 - | REVERSE     | red    |   | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | DRAW 2      | blue   |   |
+96
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 5
+Player 3 remaining card count: 4
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 4 | invalid
+      2 - | NUMBER      | yellow | 7 | invalid
+      3 - | REVERSE     | red    |   | invalid
+      4 - | NUMBER      | green  | 1 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | blue   | 8 |
+57
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 4
+Player 3 remaining card count: 3
+
+Your remaining card count: 6
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 4 | invalid
+      2 - | NUMBER      | yellow | 7 |   valid
+      3 - | REVERSE     | red    |   | invalid
+      4 - | NUMBER      | green  | 1 |   valid
+      5 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 7 |
+34
+Please select the card you want to play.
+2233
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 remaining card count: 4
+Player 3 remaining card count: 5
+
+Your remaining card count: 5
+Your cards:
+      0 - | NUMBER      | red    | 5 | invalid
+      1 - | NUMBER      | yellow | 4 |   valid
+      2 - | REVERSE     | red    |   | invalid
+      3 - | NUMBER      | green  | 1 | invalid
+      4 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | yellow | 3 |
+66
+Please select the card you want to play.
+2233
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 remaining card count: 3
+Player 3 remaining card count: 4
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | red    | 5 |   valid
+      1 - | REVERSE     | red    |   |   valid
+      2 - | NUMBER      | green  | 1 | invalid
+      3 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | red    | 8 |
+16
+Please select the card you want to play.
+2233
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 remaining card count: 3
+Player 3 remaining card count: 5
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | red    | 5 |   valid
+      1 - | NUMBER      | green  | 1 | invalid
+      2 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | SKIP        | red    |   |
+80
+Please select the card you want to play.
+2233
+entered: 0
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 remaining card count: 2
+Player 3 remaining card count: 6
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | green  | 1 |   valid
+      1 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | red    | 1 |
+2
+Please select the card you want to play.
+2233
+entered: 0
+------------------------------------------------------------
+Player 1 remaining card count: 2
+Player 2 remaining card count: 1
+Player 3 remaining card count: 5
+
+Your remaining card count: 1
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 9 |
+39
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 2
+Player 2 has won!
+Player 3 remaining card count: 5
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 0 |
+21
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 has won!
+Player 3 remaining card count: 4
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+      2 - | NUMBER      | green  | 3 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 5 |
+30
+Please select the card you want to play.
+2233
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 3
+Player 2 has won!
+Player 3 remaining card count: 3
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | REVERSE     | green  |   |
+89
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 has won!
+Player 3 remaining card count: 1
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+      2 - | NUMBER      | blue   | 7 | invalid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 5 |
+31
+Please select the card you want to play.
+2233
+entered: -1
+------------------------------------------------------------
+Player 1 remaining card count: 6
+Player 2 has won!
+Player 3 remaining card count: 2
+
+Your remaining card count: 4
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+      2 - | NUMBER      | blue   | 7 | invalid
+      3 - | NUMBER      | green  | 7 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | green  | 5 |
+31
+Please select the card you want to play.
+2233
+entered: 3
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 has won!
+Player 3 remaining card count: 3
+
+Your remaining card count: 3
+Your cards:
+      0 - | NUMBER      | blue   | 4 | invalid
+      1 - | DRAW 2      | blue   |   | invalid
+      2 - | NUMBER      | blue   | 7 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | red    | 7 |
+15
+Please select the card you want to play.
+2233
+entered: 2
+------------------------------------------------------------
+Player 1 remaining card count: 4
+Player 2 has won!
+Player 3 remaining card count: 4
+
+Your remaining card count: 2
+Your cards:
+      0 - | NUMBER      | blue   | 4 |   valid
+      1 - | DRAW 2      | blue   |   |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | blue   | 6 |
+52
+Please select the card you want to play.
+2233
+entered: 1
+------------------------------------------------------------
+Player 1 remaining card count: 5
+Player 2 has won!
+Player 3 remaining card count: 5
+
+Your remaining card count: 1
+Your cards:
+      0 - | NUMBER      | blue   | 4 |   valid
+
+80
+85
+111
+112
+123
+124
+125
+221
+134
+90
+100
+Last:     | NUMBER      | blue   | 7 |
+55
+Please select the card you want to play.
+2233
+entered: 0
+You won!
+D:\VSCode\code\uno_1\x64\Debug\uno_1.exe (进程 23208)已退出，代码为 -1073740940。
+按任意键关闭此窗口. . .
