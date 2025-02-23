@@ -1,5 +1,6 @@
-# UNO
-an imitation of the famous cards game UNO
+# UNO-card-game-EasyX
+An imitation of the famous cards game UNO.
+本人做的第一个小游戏，代码风格比较差
 ## based on EasyX
 
 ![image](https://github.com/user-attachments/assets/cee4ff2d-0be1-4eab-b21e-46c86ecd130b)
