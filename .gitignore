@@ -1,0 +1,62 @@
+# C++ compiled files
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+*.app
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+x64/
+Debug/
+Release/
+ipch/
+*.aps
+*.res
+*.rc
+
+# EasyX specific
+*.ilib
+*.tds
+
+# MACOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+__MACOSX/
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
